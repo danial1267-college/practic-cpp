@@ -1,0 +1,5 @@
+﻿  array.cpp
+c:\users\student-15-1\кештов данияль исп11-221\c++\consoleapplication3\consoleapplication3\array.cpp(10): error C2131: выражение не определяется константой
+  c:\users\student-15-1\кештов данияль исп11-221\c++\consoleapplication3\consoleapplication3\array.cpp(10): note: сбой вызван чтением переменной вне срока ее существования
+  c:\users\student-15-1\кештов данияль исп11-221\c++\consoleapplication3\consoleapplication3\array.cpp(10): note: см. использование "n"
+c:\users\student-15-1\кештов данияль исп11-221\c++\consoleapplication3\consoleapplication3\array.cpp(15): warning C4552: ">>": результат выражения не используется
